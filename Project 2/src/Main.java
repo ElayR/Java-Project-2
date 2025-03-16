@@ -9,10 +9,8 @@ public class Main {
     static boolean[][] bigreveal;
 
     public static void main(String[] args) {
-        System.out.println("Minesweeper!");
         choosingDifficulty();
         placingMines();
-        displayBoard();
         playGame();
     }
 
