@@ -1,0 +1,54 @@
+Enter the difficulty: 
+1) Easy (9 * 9 cells, 10 mines)
+2) Medium (16 * 16 Cells and 40 Mines)
+3) Hard (24 * 24 Cells and 99 Mines)
+1
+Minesweeper!:
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+. . . . . . . . . 
+Enter a command (u for uncover, f for flag): 
+Example: To uncover row 2, column 3, enter 'u 2 3'
+To flag row 5, column 6, enter 'f 5 6'
+u 2 3
+BOOM!!! Say bye to breathing.
+Game over
+Enter a command (u for uncover, f for flag): 
+Example: To uncover row 2, column 3, enter 'u 2 3'
+To flag row 5, column 6, enter 'f 5 6'
+u 1 2
+Minesweeper!:
+      1 . . . . . 
+    1 2 . . . . . 
+    1 . . . . . . 
+    1 . . . . . . 
+    1 . . . . . . 
+    1 . . . . . . 
+  1 2 . . . . . . 
+  1 . . . . . . . 
+  1 . . . . . . . 
+Enter a command (u for uncover, f for flag): 
+Example: To uncover row 2, column 3, enter 'u 2 3'
+To flag row 5, column 6, enter 'f 5 6'
+u 4 5
+Minesweeper!:
+      1 . . . . . 
+    1 2 . . . . . 
+    1 . . . . . . 
+    1 . 1 . . . . 
+    1 . . . . . . 
+    1 . . . . . . 
+  1 2 . . . . . . 
+  1 . . . . . . . 
+  1 . . . . . . . 
+Enter a command (u for uncover, f for flag): 
+Example: To uncover row 2, column 3, enter 'u 2 3'
+To flag row 5, column 6, enter 'f 5 6'
+
+// I tried but I keep getting killed, so I dont have output for winner.
